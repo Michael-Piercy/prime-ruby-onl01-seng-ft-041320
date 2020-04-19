@@ -1,5 +1,5 @@
 def prime?(int)
-  i = 2
+  i = -1
   while i < int
   return false if int % i == 0
   i += 1
