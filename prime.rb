@@ -8,4 +8,4 @@ def prime?(num)
 end
 
 prime?(2)
-prime?(-1)
+prime?()
