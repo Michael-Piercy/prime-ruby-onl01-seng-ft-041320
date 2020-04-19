@@ -1,4 +1,4 @@
-def is_prime(num)
+def prime?(num)
   n = 2
   while n < num
     return false if num % n == 0
@@ -7,5 +7,5 @@ def is_prime(num)
   true
 end
 
-is_prime(2)
-is_prime(-1)
+prime?(2)
+prime?(-1)
