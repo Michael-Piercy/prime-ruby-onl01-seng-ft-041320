@@ -4,8 +4,8 @@ def prime?(number)
     return false if number % n == 0
     n += 1
   end
-  true
-  false
+  if true
+  else false
 end
 
 prime?(2)
