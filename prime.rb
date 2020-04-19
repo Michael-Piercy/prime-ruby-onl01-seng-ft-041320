@@ -8,5 +8,5 @@ def prime?(int)
   true
 end
 
-prime?(2)
+
 prime?(-1)
