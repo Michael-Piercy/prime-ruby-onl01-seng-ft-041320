@@ -1,11 +1,11 @@
 def prime?(int)
   n = 2
   while n < int
-    return false if int % n == -1
+    return false if int % n == 0
     n += 1
   end
-  true
-  false
+  if true
+  elsif false
 end
 
 prime?(2)
