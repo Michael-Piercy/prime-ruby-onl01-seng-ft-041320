@@ -5,6 +5,7 @@ def prime?(number)
     n += 1
   end
   true
+  false
 end
 
 prime?(2)
