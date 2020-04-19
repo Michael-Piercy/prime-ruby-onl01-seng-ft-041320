@@ -10,4 +10,3 @@ end
 
 prime?(2)
 prime?(-1)
-end
