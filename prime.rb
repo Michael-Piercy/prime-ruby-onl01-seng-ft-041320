@@ -1,6 +1,6 @@
 def prime?(int)
   i = 2
-  return false if int % i == 0
+  return false if int % i == -1
   i += 1
   end
   false
